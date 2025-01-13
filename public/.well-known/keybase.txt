@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/czchen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://czchen.debian.net
+  * I am czchen (https://keybase.io/czchen) on keybase.
+  * I have a public key ASBzX7UyTLHfEs9-UqcYWrpFesn3sZZxPh-5ZH-RTCYAvAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010163639d7befacedaef878ddab50411daadaee7175b16a90c8e36b05d0e2bb7f770a",
+      "host": "keybase.io",
+      "kid": "0120735fb5324cb1df12cf7e52a7185aba457ac9f7b196713e1fb9647f914c2600bc0a",
+      "uid": "319cb55a9f2ee5968d007c17c551fc19",
+      "username": "czchen"
+    },
+    "merkle_root": {
+      "ctime": 1736781923,
+      "hash": "704141a61c9652d2982ee38bf38de7658332a8c00d8f93758181d5f853cf612f1dab57e535321a39da847d1a3383a1d4e3ab597dceb45283071954486c6263fe",
+      "hash_meta": "9db8c48d4b817b72fd1e9ed9eedef87d5e537d8c7f84023f95a66dbf3854719e",
+      "seqno": 26447670
+    },
+    "service": {
+      "entropy": "ViRIp/51JTW7KHjIsI8AGs96",
+      "hostname": "czchen.debian.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1736782004,
+  "expire_in": 504576000,
+  "prev": "a5ff5fee495ec2454701053d2bcdf9f44f70f0e7e948f3b43ee976a37a925a85",
+  "seqno": 78,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgc1+1Mkyx3xLPflKnGFq6RXrJ97GWcT4fuWR/kUwmALwKp3BheWxvYWTESpcCTsQgpf9f7klewkVHAQU9K8359E9w8OfpSPO0Pul2o3qSWoXEIFV9FgguhsXKg5s/8LFCMcY5RGQzB8hTxmh6+yPeUgItAgHCo3NpZ8RAEphfBayuZxsS7GppzeghWVtvAfH7on03yGBjZ1enVa85C5AytBycBSBBVDF9r5h2xt0YP1wr6J1DQgJhoz93D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFgMbwUUI8jj4KHSyInReyL/MProLS28Wq3VVAh+ou45o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/czchen
+
+==================================================================
